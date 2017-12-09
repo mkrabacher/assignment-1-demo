@@ -1,2 +1,4 @@
-this is my readme fie
+this is my readme file
+
+say hi world
 
